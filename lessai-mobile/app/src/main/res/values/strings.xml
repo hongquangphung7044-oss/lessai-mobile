@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LessAI Mobile</string>
+    <string name="import_txt">导入TXT</string>
+    <string name="export_result">导出结果</string>
+    <string name="start_rewrite">开始改写</string>
+    <string name="review_changes">审阅修改</string>
+    <string name="settings">设置</string>
+    <string name="pending">待处理</string>
+    <string name="generating">生成中</string>
+    <string name="reviewing">待审阅</string>
+    <string name="applied">已应用</string>
+    <string name="ignored">已忽略</string>
+</resources>
